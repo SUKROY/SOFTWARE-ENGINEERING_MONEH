@@ -1,5 +1,5 @@
 # SOFTWARE-ENGINEERING_MONEH
-Kelompok 2 / LF01
+Kelompok 6 / LF01
 
 Nama Anggota:
 Limanto Winata Hm - 2802512530
